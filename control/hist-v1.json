@@ -1,0 +1,8 @@
+{
+  "rule_version": "ziwei-v1",
+  "warmup_W": 100,
+  "first_issue": "2013101",
+  "last_issue": "2026124",
+  "draws": 1982,
+  "note": "rules/ziwei-v1.md §2: the W+1-th draw from 2013001 through the last draw before the freeze. Fixed at the freeze; never changes."
+}
